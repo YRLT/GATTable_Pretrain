@@ -11,6 +11,7 @@ Transformer, HGAT, MaskedML
 pyspark, pytorch, graphframes
 
 预训练数据的相关信息和下载请移步至TAPAS，格式为protobuf， 大小约为10G左右
+
 https://github.com/google-research/tapas/blob/master/PRETRAIN_DATA.md
 ==================================================================================
 在数据预处理阶段完成文本到图的格式转化，预训练时从图的存储数据中进行数据喂入
